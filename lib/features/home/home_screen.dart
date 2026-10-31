@@ -7,6 +7,8 @@ import 'package:bmi_calculate/features/home/cubit/home_cubit.dart';
 import 'package:bmi_calculate/features/home/cubit/home_state.dart';
 import 'package:bmi_calculate/features/home/widgets/age_and_weight.dart';
 import 'package:bmi_calculate/features/home/widgets/gender_card.dart';
+import 'package:bmi_calculate/features/result/cubit/result_cubit.dart';
+import 'package:bmi_calculate/features/result/result_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
